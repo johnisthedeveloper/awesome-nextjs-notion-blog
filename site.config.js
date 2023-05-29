@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'John的独立博客',
-  domain: 'szufrank.top',
+  domain: 'johndeveloper.top',
   author: '老John在北美',
 
   // open graph metadata (optional)
@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: null,
-  github: 'frankcbliu',
+  github: 'johnisthedeveloper',
   wechatPublicName: '老John在北美',
   wechatPublicURL: 'https://mp.weixin.qq.com/s?__biz=MzkxMzIyOTI1Mg==&mid=2247486027&idx=1&sn=2840f0b8cfdc982b9095dd18ec9892e5',
   notionPublic: 'https://johndeveloper.notion.site/da928effd5a645b3a1ba00273eeeb5af',
